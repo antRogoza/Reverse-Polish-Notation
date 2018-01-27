@@ -1,0 +1,4 @@
+3
+a + b * c / t ^(d - e) + f
+a + b + c
+a + b * c 
